@@ -1,0 +1,6 @@
+dirbot
+bin
+include
+lib
+.Python
+pip-selfcheck.json
